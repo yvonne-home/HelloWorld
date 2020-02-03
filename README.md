@@ -1,2 +1,2 @@
-# some demo
-just some demos
+# hello world
+just say hello
